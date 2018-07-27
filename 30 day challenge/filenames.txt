@@ -1,0 +1,31 @@
+Day 1 - Creating a Tkinter Window.py
+Day 2 - Title, Icon and the Geometry of the Tkinter Window.py
+Day 3 - Adding text + image inside a tkinter window.py
+Day 4 - Adding an Image Button for playing Music.py
+Day 5 - Playing music using Pygame.py
+Day 6 - Stopping the music using Pygame.py
+Day 7 - Changing the colume using Scale Widget + Pygame.py
+Day 8 - Adding a Menu to our Tkinter Window.py
+Day 9 - Executing commands in Menubar + Messagebox.py
+Day 10 - Opening up files using Filedialog Tkinter.py
+Day 11 - Adding a Statusbar.py
+Day 12 - Pause and Unpause the music using Tkinter and Pygame.py
+Day 13 - Pack layout Manager and Frames in Tkinter .py
+Day 14 - Grid Layout Manager and Frames in Tkinter.py
+Day 15 - Rewind Music + More on the Grid System.py
+Day 16 - Toggle the Tkinter button + Mute the music with Pygame.py
+Day 17 - Fixing the Logic of the pause unpause .py
+Day 18 - Total Length duration of the WAV Music files.py
+Day 19 - Total Length duration of the MP3 Music files.py
+Day 20 - Calculating Current Time + Threading in Python.py
+Day 21 - Events and Bindings - Overriding the close button Tkinter.py
+Day 22 - Creating a Music Playlist using Listbox widget in Tkinter.py
+Day 23 - Adding items to Listbox Tkinter.py
+Day 24 - Playing Songs on the Playlist.py
+Day 25 - Fixing the Statusbar + Current time + Total Length.py
+Day 26 - Deleting items from the Listbox Tkinter.py
+Day 27 - Styling the Tkinter GUI + Fonts + Tkinter Themed Widgets.py
+Day 28 - Adding theme to our Tkinter Window.py
+Day 29 - Converting python to executables using cx_freeze.py
+Day 30 - Conclusion.py
+
